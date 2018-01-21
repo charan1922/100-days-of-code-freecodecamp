@@ -116,5 +116,40 @@ card , card section, linking , react-native styling ,
 **Thoughts** learned how to apply redux, and learned how to generate and assign key to android app. 
 **Link(s) to work**
 1. [News-App](https://github.com/charan1922/News-App)
-2.FyndX (can't be disclosed)
+2. [FyndX] (can't be disclosed)
+
+
+
+### Day 13: January 12, 2018 
+
+**Today's Progress**: Built a Sample App in FlexBox
+
+**Thoughts**  Got basic idea on flexbox
+
+**Link(s) to work**
+1. [Sample website](https://github.com/charan1922/sample_website)
+
+
+
+### Day 14 & 15 & 16 : January 17,18,19 2018 
+
+**Progress**: Working on chat module in React Native and Flashcard app from fcc tutorials
+
+**Thoughts** learned about async storage, redux and idea on  how to build & structure the app
+
+**Link(s) to work**
+1. [ChatApp](https://github.com/charan1922/ChatApp)
+2. [FlashCards](https://github.com/charan1922/FlashCards)
+
+
+
+### Day 17: January 21, 2018 Sunday
+
+**Today's Progress**: Implemented existing website in ReactJs 
+
+**Thoughts** Learned how to structure the app
+
+**Link(s) to work**
+1. [Turmeric Cash N carry](http://turmericcashncarry.com/)
+
 
