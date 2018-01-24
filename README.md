@@ -161,5 +161,5 @@ card , card section, linking , react-native styling ,
 
 **Link(s) to work**
 1. [chat module](code can't be disclosed)
-![alt text](https://postimg.org/image/rt9asitgz/)
-![alt text](https://postimg.org/image/ywh684jgz/)
+![alt text](https://s13.postimg.org/5vctyfwdj/Whats_App_Image_2018-01-24_at_2.47.07_PM_1.jpg)
+
