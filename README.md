@@ -153,11 +153,15 @@ card , card section, linking , react-native styling ,
 1. [Turmeric Cash N carry](http://turmericcashncarry.com/)
 
 
-### Day 18&19: January 22,23, 2018 Sunday
+### Day 18&19&20: January 22,23,24 2018 
 
 **Today's Progress**: did a chat module in react-native
 
-**Thoughts**  stack navigation, flexbox, designs, async storage
+**Thoughts** got idea on  stack navigation,
+flexbox, 
+designs,
+async storage,
+multiline textinput, scrollend in flatlist, keyboard.dismiss()
 
 **Link(s) to work**
 1. [chat module](code can't be disclosed)
